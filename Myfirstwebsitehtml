@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>My Website</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <img src="../Folder2/itsme.png" height="100" alt="almeera foto"/>
+        </br>
+        <h1 class="center">My website</h1>
+        <div style="background-color: pink">
+          <p>Hello, I'm Almeera Hijriah, I come from Indonesia, I'm a web development programmer, I learn from various online courses. Now I'm studying on Udemy with the guidance of teacher Angela Yu.
+Angela Yu is my favorite teacher, her way of teaching is really good and I enjoy studying with her.
+This is my first experience creating my own website and sharing it on GitHub</p> 
+       </div> 
+        <a href="../certificate.html">Cek My Certificate</a>
+        
+    </body>
+</html>
